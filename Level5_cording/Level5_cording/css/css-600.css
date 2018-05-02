@@ -23,6 +23,9 @@ ul {
   width: 1080px;
   background-color: white;
 }
+header {
+  padding-top: 10px;
+}
 .pc_img {
   display: inline-block;
   text-align: center;
